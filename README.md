@@ -1,3 +1,5 @@
+# Creative Project 0: Abstract Strategy Games
+
 **Assignment Spec:**
 
 Strategy games are games in which players make a sequence of moves according to a set of rules hoping to achieve a particular outcome (e.g. a higher score, a specific game state) to win the game. Strategy games usually give players free choice about which moves to make (within the rules) and have little to no randomness or luck (e.g. rolling of dice, drawing of cards) involved. Abstract strategy games are a subset of strategy games usually characterized by a) perfect information (i.e. all players know the full game state at all times, and b) little to no theme or narrative around gameplay. Popular examples of abstract strategy games include: Chess, Checkers, Go, Tic-Tac-Toe, and many others.
